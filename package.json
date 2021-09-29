@@ -1,12 +1,18 @@
 {
   "name": "routify-plugin-frontmatter",
-  "version": "1.0.1",
-  "description": "",
+  "version": "2.0.0",
+  "description": "A routify plugin to parse frontmatter blocks and put as meta",
   "main": "index.js",
-  "scripts": {},
   "author": "jakobrosenberg@gmail.com",
   "license": "ISC",
   "dependencies": {
     "yaml": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobrosenberg/routify-plugin-frontmatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakobrosenberg/routify-plugin-frontmatter/issues"
   }
 }
