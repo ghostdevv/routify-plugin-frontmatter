@@ -4,6 +4,9 @@
   "description": "A routify plugin to parse frontmatter blocks and put as meta",
   "main": "index.js",
   "author": "jakobrosenberg@gmail.com",
+  "contributors": [
+    "GHOST <ghostdevbusiness@gmail.com> (https://ghostdev.xyz)"
+  ],
   "license": "ISC",
   "dependencies": {
     "yaml": "^1.10.0"
