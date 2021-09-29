@@ -8,14 +8,14 @@
     "GHOST <ghostdevbusiness@gmail.com> (https://ghostdev.xyz)"
   ],
   "license": "ISC",
-  "dependencies": {
-    "yaml": "^1.10.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jakobrosenberg/routify-plugin-frontmatter.git"
   },
   "bugs": {
     "url": "https://github.com/jakobrosenberg/routify-plugin-frontmatter/issues"
+  },
+  "dependencies": {
+    "frontmatter": "^0.0.3"
   }
 }
